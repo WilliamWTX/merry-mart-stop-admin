@@ -4,17 +4,16 @@
  * @Created date is 2019/7/29 17:16
  * @Updated date is 2019/7/29 17:16
  */
-import LazyLoad from '../common/lazy-load/LazyLoad';
-
-const Login = LazyLoad(() => import('../pages/login/Login'));
+import Goods from '../pages/goods/Goods';
 
 const Router = () => [
     {
-        path: '/login',
-        icons: '',
-        name: '',
-        component: Login,
         children: [],
+        component: Goods,
+        icon: 'appstore',
+        key: '1',
+        name: '商品列表',
+        path: '/goods',
     }
 ];
 
