@@ -11,8 +11,6 @@ import RootRouter from '../../../router/RootRouter';
 import {MainLayoutInterface} from './MainLayout.interface';
 import Styles from './MainLayout.module.scss';
 
-console.log(Styles);
-
 class MainLayout extends React.PureComponent<any, MainLayoutInterface> {
 
     constructor(props: any) {

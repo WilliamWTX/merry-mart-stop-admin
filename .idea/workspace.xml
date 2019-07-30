@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fb76450-9f8f-4766-949a-78480261b3bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/main/layout/MainLayout.interface.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/main/layout/MainLayout.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-overrides.js" beforeDir="false" afterPath="$PROJECT_DIR$/config-overrides.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/lazy-load/LazyLoad.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/index..ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/index..ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/Router.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/Router.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="98" column="49" lean-forward="true" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="49" />
+            <state relative-caret-position="242">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="e#141#172#0" expanded="true" />
               </folding>
@@ -56,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/main/layout/MainLayout.module.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="110">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -117,8 +106,8 @@
         <option value="$PROJECT_DIR$/src/pages/main/layout/MainLayout.new.less" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/config-overrides.js" />
-        <option value="$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx" />
         <option value="$PROJECT_DIR$/src/pages/main/layout/MainLayout.module.scss" />
+        <option value="$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx" />
       </list>
     </option>
   </component>
@@ -220,7 +209,7 @@
       <updated>1564376553051</updated>
       <workItem from="1564376554218" duration="13676000" />
       <workItem from="1564452365835" duration="3350000" />
-      <workItem from="1564468798803" duration="11504000" />
+      <workItem from="1564468798803" duration="11553000" />
     </task>
     <task id="LOCAL-00001" summary="Dev: 添加路由组件和懒加载">
       <created>1564398529332</created>
@@ -229,11 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564398529332</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dev: 修改配置">
+      <created>1564482834936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564482834936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28530000" />
+    <option name="totallyTimeSpent" value="28579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1551" height="840" extended-state="0" />
@@ -265,7 +261,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dev: 添加路由组件和懒加载" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dev: 添加路由组件和懒加载" />
+    <MESSAGE value="Dev: 修改配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev: 修改配置" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.es2015.d.ts">
@@ -449,20 +446,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/main/layout/MainLayout.module.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="98" column="49" lean-forward="true" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="49" />
-          <folding>
-            <element signature="e#141#172#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="110">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/main/layout/MainLayout.module.scss">
+    <entry file="file://$PROJECT_DIR$/src/pages/main/layout/MainLayout.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="242">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#141#172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
