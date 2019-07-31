@@ -7,4 +7,21 @@
     padding: 6px 0;
     color: #FFF;
   }
+
+  &__icon {
+    margin-left: 10px;
+  }
+
+  &__header {
+    float: right;
+    margin-right: 20px;
+  }
+
+  &__content {
+    margin: 16px;
+    padding: 24px;
+    background: #fff;
+    height: calc(100vh - 96px);
+    overflow-y: hidden;
+  }
 }

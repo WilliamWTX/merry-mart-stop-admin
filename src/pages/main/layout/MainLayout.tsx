@@ -118,9 +118,10 @@ class MainLayout extends React.PureComponent<any, MainLayoutInterface> {
             <Header style={{background: '#fff', padding: 0}}>
                 <Icon
                     type={collapsed ? 'menu-unfold' : 'menu-fold'}
+                    className={Styles.root__icon}
                     onClick={this.toggle}
                 />
-                <div>
+                <div className={Styles.root__header}>
                     <Avatar
                         size="large"
                         icon="user"
@@ -147,7 +148,7 @@ class MainLayout extends React.PureComponent<any, MainLayoutInterface> {
         const {Content} = Layout;
         return (
             <Content>
-                <div>
+                <div className={Styles.root__content}>
                     {this.renderMainChildRoute()}
                 </div>
             </Content>
